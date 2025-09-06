@@ -8,7 +8,7 @@ A curated list of learning resources across various domains.
 
 * Hobby Resources: [HOBBY.md](HOBBY.md)
 
-* Language Resources: [LANGUAGES.md](LANGUAGES.md)
+* Language Resources: [LANGUAGE.md](LANGUAGE.md)
 
 * Mathematics Resources: [MATH.md](MATH.md)
 
