@@ -15,3 +15,5 @@ A curated list of learning resources across various domains.
 * ML & AI Resources: [ML-AI.md](ML-AI.md)
 
 * Psychology Resources: [PSYCHOLOGY.md](PSYCHOLOGY.md)
+
+* Software Testing & Quality Assurance Resources: [TESTING.md](TESTING.md)
