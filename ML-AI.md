@@ -52,3 +52,4 @@
 
 * ## Mix of Resources
   * [ML, PATTERNS, PREDICTIONS, AND ACTIONS, Moritz Hardt and Benjamin Recht](https://mlstory.org/pdf/patterns.pdf)
+  * [Agentic Design Patterns](https://docs.google.com/document/u/0/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/mobilebasic#heading=h.pxcur8v2qagu)
