@@ -39,6 +39,14 @@
   * [MIT 18.06 Linear Algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
 
 
+* ## University of Pennsylvania
+  * [Algebra, Topology, Differential Calculus,andOptimization TheoryFor Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-deep.pdf)
+
+
+* ## Cornell Tech
+  * [Applied Machine Learning - CS 5787](https://youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
+
+
 
 * ## Arxiv
   * [Foundations of Large Language Models, Tong Xiao and Jingbo Zhu](https://arxiv.org/pdf/2501.09223v2)
@@ -53,3 +61,4 @@
 * ## Mix of Resources
   * [ML, PATTERNS, PREDICTIONS, AND ACTIONS, Moritz Hardt and Benjamin Recht](https://mlstory.org/pdf/patterns.pdf)
   * [Agentic Design Patterns](https://docs.google.com/document/u/0/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/mobilebasic#heading=h.pxcur8v2qagu)
+  * [LangChain](https://youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
