@@ -40,7 +40,9 @@
 
 
 * ## University of Pennsylvania
-  * [Algebra, Topology, Differential Calculus,andOptimization TheoryFor Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-deep.pdf)
+  * [Algebra, Topology, Differential Calculus,and
+Optimization Theory
+For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-deep.pdf)
 
 
 * ## Cornell Tech
@@ -50,12 +52,17 @@
 
 * ## Arxiv
   * [Foundations of Large Language Models, Tong Xiao and Jingbo Zhu](https://arxiv.org/pdf/2501.09223v2)
+  * [Mathematics of Neural networks](https://arxiv.org/pdf/2403.04807)
 
 
 
 
 * ## Microsoft
   * [AI Agents for Beginners ](https://github.com/microsoft/ai-agents-for-beginners)
+
+
+* ## 3blue1brown
+  * [Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 
 * ## Mix of Resources

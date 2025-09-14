@@ -17,3 +17,5 @@ A curated list of learning resources across various domains.
 * Psychology Resources: [PSYCHOLOGY.md](PSYCHOLOGY.md)
 
 * Software Testing & Quality Assurance Resources: [TESTING.md](TESTING.md)
+
+* Game Theory Resources: [GAME-THEORY.md](GAME-THEORY.md)

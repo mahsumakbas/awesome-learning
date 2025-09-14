@@ -27,3 +27,5 @@
 * [Oxford - Information Theory](https://www.youtube.com/playlist?list=PL4d5ZtfQonW3iAhXvTYCnoGEeRhxhKHMc)
 
 * [Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)
+
+* [Stanford CS149 - Parallel Computing](https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp)
