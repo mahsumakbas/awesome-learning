@@ -23,3 +23,7 @@
 * [Differential Geometry - Theodore Shifrin,University of Georgia](https://math.franklin.uga.edu/sites/default/files/inline-files/ShifrinDiffGeo.pdf)
 
 * [Theory of Probability - B.V. Gnedenko](https://archive.org/details/GnedenkoTheoryOfProbability)
+
+* [Algebra - Khan Academy](https://youtube.com/playlist?list=PL7AF1C14AF1B05894)
+
+* [What is Mathematic](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
