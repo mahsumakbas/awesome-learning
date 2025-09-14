@@ -7,3 +7,4 @@
 * [3Blue1Brown](https://www.3blue1brown.com/)
 * [Oxford Mathematics](https://www.youtube.com/@OxfordMathematics/playlists)
 * [Stanford Online](https://www.youtube.com/@stanfordonline)
+* [Yale University Courses](https://youtube.com/@yalecourses)
